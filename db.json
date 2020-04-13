@@ -49,6 +49,17 @@
         "lastSellData": "548574"
       },
       "id": 4
+    },
+    {
+      "id": "555",
+      "productName": "Yeison",
+      "reference": "Crack",
+      "price": "45",
+      "weight": "45",
+      "category": "mas Crack",
+      "stock": "3",
+      "creationDate": "55555",
+      "lastSellData": "555"
     }
   ]
 }
