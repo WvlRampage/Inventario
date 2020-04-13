@@ -60,9 +60,9 @@ const Inventory = () => {
                         data.splice(data.indexOf(newData), 1);
                         return { ...prevState, data };
                       });
-                    axios.post('http://localhost:3000/posts/', {
-                       data: newData 
-                       })
+                    axios.post('http://localhost:3000/posts/', 
+                        newData 
+                       )
                   }
                   resolve()
                 }, 1000)
